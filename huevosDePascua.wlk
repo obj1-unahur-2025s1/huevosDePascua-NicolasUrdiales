@@ -44,7 +44,7 @@ object matrioshka {
 
 
 object ana{
-
+ method peso() = 50
 }
 
 object jose{
